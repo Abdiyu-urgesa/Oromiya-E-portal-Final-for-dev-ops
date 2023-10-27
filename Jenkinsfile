@@ -9,7 +9,7 @@ pipeline {
 
     stage('build image') {
       steps {
-        sh 'docker build -f /Dockerfile .'
+        sh 'docker build -f /dockerfile .'
       }
     }
 
