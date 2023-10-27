@@ -7,11 +7,5 @@ pipeline {
       }
     }
 
-    stage('build image') {
-      steps {
-        sh 'echo hello'
-      }
-    }
-
   }
 }
