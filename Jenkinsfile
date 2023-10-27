@@ -7,7 +7,7 @@ pipeline {
       }
     }
 
-    stage('build') {
+    stage('buildee') {
       steps {
         sh 'docker --version'
       }
