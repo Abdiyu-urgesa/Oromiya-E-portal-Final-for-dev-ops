@@ -9,7 +9,7 @@ pipeline {
 
     stage('build') {
       steps {
-        sh 'docker --version'
+        sh 'echo second bbb'
       }
     }
 
