@@ -9,7 +9,7 @@ pipeline {
 
     stage('build') {
       steps {
-        sh 'echo second bbb'
+        sh 'echo seconeeeeeeeeeeeeeeeeee'
       }
     }
 
