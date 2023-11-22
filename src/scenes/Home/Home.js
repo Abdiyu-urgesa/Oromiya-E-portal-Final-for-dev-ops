@@ -27,7 +27,7 @@ export default function Home() {
             {a.map((x, index) => (
               <ServiceCard
                 key={index}
-                title="The Ethiopian Government Electronic Services Portal has been developed
+                title="ttttttttttttttttttttt Ethiopian Government Electronic Services Portal has been developed
  to provide electronic public services to citizens, non-citizens,
  businesses, and governmental & non-governmental organizations."
                 discription="The Ethiopian Government Electronic Services Portal has been developed
